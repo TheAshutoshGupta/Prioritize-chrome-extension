@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+### To Actually use this extension download build folder
+
+### Then go on 
+(chrome://extension)
+### And upload this file there
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
