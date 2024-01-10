@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Minimal Manifest",
+  "version": "1.0.0",
+  "description": "A basic example extension with only required keys",
+  "icons": {
+    "48": "square2.png",
+    "128": "square2.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "chrome_url_overrides":{
+    "newtab":"index.html"
+  }
+}
